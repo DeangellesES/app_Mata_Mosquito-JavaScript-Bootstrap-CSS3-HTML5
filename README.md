@@ -1,4 +1,3 @@
-# App_Mata_Mosquito-JavaScript-Bootstrap-CSS3-HTML5
 Jogo Mata Mosquito feito em um curso de Javascript
 
 Layout da página inicial
