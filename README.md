@@ -1,13 +1,34 @@
-Jogo Mata Mosquito feito em um curso de Javascript
+<h1>Jogo Mata Mosquito feito em um curso de Javascript</h1>
 
-Layout da página inicial
+## 🚀 Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+<!-- ## Tecnologias utilizadas durante o curso
+* JavaScript
+ -->
+<!-- ## Tecnologias utilizadas no projeto
+* HTML
+* CSS -->
+<br>
+
+<h3 align="center">Layout da página inicial</h3>
+
 ![App Mata Mosquito](https://github.com/DeangellesES/App_Mata_Mosquito-JavaScript-Bootstrap-CSS3-HTML5/blob/master/App%20Mata%20Mosquito.png)
 
-Layout do jogo
+<h3 align="center">Layout do jogo</h3>
+
+
 ![App Mata Mosquito](https://github.com/DeangellesES/App_Mata_Mosquito-JavaScript-Bootstrap-CSS3-HTML5/blob/master/game.png)
 
-Layout da vitória do jogo
+<h3 align="center">Layout da vitória do jogo</h3>
+
+
 ![App Mata Mosquito](https://github.com/DeangellesES/App_Mata_Mosquito-JavaScript-Bootstrap-CSS3-HTML5/blob/master/vit%C3%B3ria.png)
 
-Layout da perda do jogo
+<h3 align="center">Layout da perda do jogo</h3>
+
+
 ![App Mata Mosquito](https://github.com/DeangellesES/App_Mata_Mosquito-JavaScript-Bootstrap-CSS3-HTML5/blob/master/game%20over.png)
